@@ -65,4 +65,3 @@ skins\UnitXP_SP3_Addon.lua
 skins\YaHT.lua
 skins\ZHunterMod.lua
 skins\ModernMapMarkers.lua
-skins\MessageBox.lua
