@@ -14,7 +14,6 @@ pfUI-addonskinner-gui.lua
 
 # skins
 skins\AdvancedTradeskillWindow.lua
-skins\AdvancedTradeSkillWindow2.lua
 skins\Artisan.lua
 skins\Atlas.lua
 skins\AtlasLoot.lua
@@ -68,4 +67,3 @@ skins\TurtleZoneCount.lua
 skins\UnitXP_SP3_Addon.lua
 skins\YaHT.lua
 skins\ZHunterMod.lua
-skins\ModernMapMarkers.lua
